@@ -1,13 +1,14 @@
 import React from 'react';
+import './Header.css'
 
 function Header() {
     return (
         <>
-        <nav class="menu">
+        <nav className="menu">
             <ul>
 				<li>
 					<a href="#">
-						<i class="fas fa-home"></i>
+						<i className="fas fa-home"></i>
 					</a>
 				</li>
                 <li><a href="#sobre">Sobre</a></li>

@@ -1,0 +1,28 @@
+
+.sobre{
+    background-color: #5bc0be;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 100vh;
+    padding: 5em;
+}
+
+.sobre h2{
+    font-size: 2em;
+    margin-bottom: 1.2em;
+}
+.sobre p{
+    color:#fff;
+    margin-bottom: 1em;
+    text-indent: 1em;
+}
+
+.sobre .avatar{
+    float: right;
+    margin-left: 2em;
+}
+
+.sobre .avatar img{
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+    width: 150px;
+}

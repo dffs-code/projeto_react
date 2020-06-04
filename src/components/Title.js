@@ -1,10 +1,11 @@
 import React from 'react';
+import './Title.css'
 
 function Title() {
     return (
         <>
-        <div class="title">
-            <h1 class="site-title">Daniel Formigoni</h1>
+        <div className="title">
+            <h1 className="site-title">Daniel Formigoni</h1>
         </div>
     </>
     );

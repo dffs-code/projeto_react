@@ -1,12 +1,13 @@
 import React from 'react';
+import './Sobre.css'
 
 function Sobre() {
     return (
         <>
-        <section className="sobre">
+        <section className="sobre" id="sobre">
             <h2>Sobre</h2>
-            <div class="content">
-                <figure class="avatar">
+            <div className="content">
+                <figure className="avatar">
                     <img src="https://avatars1.githubusercontent.com/u/52416634?s=460&u=698704804f4dd74b03838822ad1ac9520f0d4765&v=4"></img>
                 </figure>
                 <p>Amante da Tecnologia e entusiasta do Design e User Experience. Técnico em informática pela Etec Dr. Emílio Hernandez Aguilar e estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo </p>

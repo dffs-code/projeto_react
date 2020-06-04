@@ -1,0 +1,27 @@
+.contato{
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 100vh;
+    padding: 5em;
+}
+
+.contato h2{
+    font-size: 2em;
+    margin-bottom: 1.2em;
+}
+
+.contato a{
+    margin: 0.2em;
+    color: whitesmoke;
+    font-size: 5em; 
+    text-align: center;
+    transition: text-shadow 0.5s;
+}
+
+.contato a:hover{
+    text-shadow: 2px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+.icons {
+    text-align: center;
+}

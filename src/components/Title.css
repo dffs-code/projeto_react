@@ -1,0 +1,30 @@
+.title{
+    height: 100vh;
+    transform: translateX(-10vh);
+    opacity: 0;
+    animation: ease-out 850ms animaTitulo forwards;
+}
+
+@keyframes animaTitulo{
+    from{
+        transform: translateX(-10vh);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+
+h1{
+    vertical-align: center;
+}
+
+.site-title{
+    margin-top: 40vh;
+    color: whitesmoke;
+    font-size: 4em;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+}
