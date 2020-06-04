@@ -1,3 +1,7 @@
+# HomePage in React JS 
+## Project Description:
+Starting studies in React JS with a siimple personal homepage. There are some issues to solve.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
