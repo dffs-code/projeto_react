@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Title from './components/Title'
 import Sobre from './components/Sobre'
 import Portfolio from './components/Portfolio';
+import Contato from './components/Contato'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
     <Title />
     <Sobre />
     <Portfolio />
+    <Contato />
     </>
   );
 }
