@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projeto_react/static/css/main.cf047875.chunk.css",
+    "main.js": "/projeto_react/static/js/main.6d549295.chunk.js",
+    "main.js.map": "/projeto_react/static/js/main.6d549295.chunk.js.map",
+    "runtime-main.js": "/projeto_react/static/js/runtime-main.212aaa8b.js",
+    "runtime-main.js.map": "/projeto_react/static/js/runtime-main.212aaa8b.js.map",
+    "static/js/2.f3352394.chunk.js": "/projeto_react/static/js/2.f3352394.chunk.js",
+    "static/js/2.f3352394.chunk.js.map": "/projeto_react/static/js/2.f3352394.chunk.js.map",
+    "index.html": "/projeto_react/index.html",
+    "precache-manifest.ec938385256c4b9526d108da75d4cb33.js": "/projeto_react/precache-manifest.ec938385256c4b9526d108da75d4cb33.js",
+    "service-worker.js": "/projeto_react/service-worker.js",
+    "static/css/main.cf047875.chunk.css.map": "/projeto_react/static/css/main.cf047875.chunk.css.map",
+    "static/js/2.f3352394.chunk.js.LICENSE.txt": "/projeto_react/static/js/2.f3352394.chunk.js.LICENSE.txt",
+    "static/media/calculator.png": "/projeto_react/static/media/calculator.e035dc20.png",
+    "static/media/github_api.PNG": "/projeto_react/static/media/github_api.95a02ef3.PNG",
+    "static/media/tasklist.png": "/projeto_react/static/media/tasklist.1356df22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.212aaa8b.js",
+    "static/js/2.f3352394.chunk.js",
+    "static/css/main.cf047875.chunk.css",
+    "static/js/main.6d549295.chunk.js"
+  ]
+}

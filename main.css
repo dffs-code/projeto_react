@@ -1,0 +1,60 @@
+/* RESET DO CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #62c3e3;
+    font-family: 'Jost', sans-serif;
+    height: 100vh;
+    font-size: 12px;
+}
+/* se a tela tiver pelo menos 400 pixels, vai carregar esses estilos */
+@media (min-width: 400px){
+    body{
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 560px){
+    .portfolio .grid{
+        grid-template-columns: 240px 240px;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 600px){
+    body{
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 880px){
+    .portfolio .grid{
+        grid-template-columns: repeat(3, 240px);
+        justify-content: center;
+    }
+    .sobre .avatar img{
+        min-width: 250px;
+    }
+}
+
+@media (min-width: 1200px){
+    .portfolio .grid{
+        justify-content: center;
+        grid-template-columns: repeat(3, 240px);
+        height: calc(100vh - 8em - 48px);
+    }
+    .content{
+        font-size: 25px;
+        max-width: 1200px;
+    }
+}
+
+a{
+    text-decoration: none;
+}
